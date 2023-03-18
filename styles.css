@@ -1,0 +1,21 @@
+
+.back{
+   background-color: #3b2774;
+}
+.img-logo{
+    height: 130px;
+}
+.btn-color{
+    background-color: #8d31e2;
+}
+main{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr
+ }
+.back-img{
+    height: 1000px;
+    background-image: url(img/back-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
